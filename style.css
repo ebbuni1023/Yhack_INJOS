@@ -18,7 +18,6 @@ a{
     padding: 8px 130px;
 }
 
-
 .navbar_logo{
     font-size: 30px;
     color: black;
@@ -76,6 +75,52 @@ Section{
     font-size: 3.5em;
     font-weight: 500;
 }
+.about p{
+    font-size: 2em;
+}
+.Quizzes{
+    width:80%;
+    height: 330px;
+    background-color: rgb(250, 148, 14);
+    border-radius: 20px;
+    align-items: center;
+    box-shadow:2px 2px 12px rgba(0,0,0,0.3);
+    display: flex;
+    margin:-0.5% auto 75px auto;
+}
+.Quizzes h1{
+    margin-top: -20px;
+    text-align: center;
+    font-size: 3.5em;
+    font-weight: 500;
+}
+.Quizzes button{
+    width:130px;
+    height: 42px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 14px;
+    outline: none;
+    margin: 0px 10px;
+}
+.LearnMore{
+    background-color:rgb(235, 235, 210);
+    color: black;
+    border: none;
+}
+.learn_container{
+    height:20px; 
+    width:100px; 
+    margin: 0px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+}
+button:active{
+    transform: scale(1.1);
+}
+
+
 
 @media screen and (max-width: 768px){
     .navbar{
