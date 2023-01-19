@@ -27,4 +27,5 @@ The most important thing is that we can make friends. It is really fun. Also lea
 ## Built with
 [![My Skills](https://skillicons.dev/icons?i=github,html,css,javascript)](https://skillicons.dev)
 
-## [YHack V.2020] (https://devpost.com/software/injos)
+### YHack V.2020
+https://devpost.com/software/injos
